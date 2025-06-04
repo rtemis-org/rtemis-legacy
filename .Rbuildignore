@@ -1,0 +1,17 @@
+LICENSE
+.log$
+.github
+^appveyor\.yml$
+^.*\.Rproj$
+^\.Rproj\.user$
+.*~
+.travis.yml
+spark-warehouse
+[.]code-workspace$
+^dev$
+.vscode
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
+^\.github$
+^codecov\.yml$
